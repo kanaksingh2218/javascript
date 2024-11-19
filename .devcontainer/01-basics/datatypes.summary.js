@@ -34,3 +34,28 @@ const myFunction = function(){
 }
 
 console.log(typeof isLoggedIn);
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+let myYoutubeName = "kanakdotcom"
+
+let anotherName = myYoutubeName
+anotherName = "chaiAurCode"
+
+
+console.log(myYoutubeName);
+console.log(anotherName);
+
+let user1 = {
+    email: "kanak@google.com" ,
+    upi: "kanak@ybl"
+}
+let user2 = user1
+
+user2.email = "khushboo@google.com"
+
+console.log(user1.email);
+console.log(user2.email);
+
+
+
