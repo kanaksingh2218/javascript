@@ -8,6 +8,5 @@
 //named IIFE
 
 (  (name) => {
-    console.log(`aurcode ${name}` );
-    
-}) (`vaibhav`)
+    console.log(`aurcode ${name}` )
+}) (`sam`)
