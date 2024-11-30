@@ -26,15 +26,15 @@ const balance = 1000
 //     console.log("less than 1200");
 // }
 
-const userloggedIn = true
-const debitcard= true
-const loggedinfromGoggle = true
-const loggedinfromemail = false
+// const userloggedIn = true
+// const debitcard= true
+// const loggedinfromGoggle = true
+// const loggedinfromemail = false
 
-if (userloggedIn && debitcard && 2==4) {
-    console.log("allow courses");
+// if (userloggedIn && debitcard && 2==4) {
+//     console.log("allow courses");
     
-}if (loggedinfromGoggle || loggedinfromemail) {
-    console.log("user login");
+// }if (loggedinfromGoggle || loggedinfromemail) {
+//     console.log("user login");
     
-}
+// }
