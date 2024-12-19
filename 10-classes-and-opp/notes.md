@@ -11,7 +11,7 @@
 ## parts of OPP
 Object lietral
 
-- Constructor function
+- Constructor function : Always gives new instances
 - Prototypes
 - Classes
 - Instances (new, this)

@@ -84,8 +84,8 @@ async function getAllUsers(params) {
   console.log(data);
   
 }
-getAllUsers().catch((error)=> console.log("ERROR");
-)
+getAllUsers().catch((error)=> console.log("ERROR")
+
 
 
 
